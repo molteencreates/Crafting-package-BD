@@ -41,7 +41,7 @@ create a folder named `craftings` in your `BallsDex-DiscordBot/admin_panel` and 
 Adding screenshot to avoid any confusion
 
 # Step 5 
-Go to `BallsDex-DiscordBot/admin_panel/admin_panel/settings` there open `local.py` and add this line 
+Go to `BallsDex-DiscordBot/admin_panel/admin_panel/settings` there open `local.py` and at the 5th line, add this
 ```py
 INSTALLED_APPS.append("craftings")
 ```
